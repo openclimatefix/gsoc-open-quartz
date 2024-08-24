@@ -3,11 +3,12 @@ Google Summer of Code 2024: Implementing Temporal Fusion Transformer Model for F
 
 ## Project Organization
 ------------
-├── python_code        <- Contains all Python Jupyter notebooks for dataset preparation, data processing, training, and inference of the model.
-├── README.md          <- The README for developers using this project.
-├── result_data        <- Contains all dataset files used for data analysis, training, and testing of the model.
-│
-├── requirements       <- Contains all requirement files needed to run this project.
+
+    ├── python_code        <- Contains all Python Jupyter notebooks for dataset preparation, data processing, training, and inference of the model.
+    ├── README.md          <- The README for developers using this project.
+    ├── result_data        <- Contains all dataset files used for data analysis, training, and testing of the model.
+    │
+    ├── requirements       <- Contains all requirement files needed to run this project.
 
 
 ## Setting up the project
