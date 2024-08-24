@@ -8,10 +8,9 @@ The project idea and implementation are explained here: [Gsoc Open Quartz Gist](
 ------------
 
     ├── python_code        <- Contains all Python Jupyter notebooks for dataset preparation, data processing, training, and inference of the model.
-    ├── README.md          <- The README for developers using this project.
     ├── result_data        <- Contains all dataset files used for data analysis, training, and testing of the model.
-    │
     ├── requirements       <- Contains all requirement files needed to run this project.
+    ├── README.md          <- The README for developers using this project.
 
 
 ## Setting up the project
