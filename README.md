@@ -1,5 +1,7 @@
 # gsoc-open-quartz
 Google Summer of Code 2024: Implementing Temporal Fusion Transformer Model for Forecasting of Open Source Quartz Solar Forecast Data
+
+
 The project idea and implementation are explained here: [Gsoc Open Quartz Gist](https://gist.github.com/roshnaeem/f3f66bc7e76a4eff79b07568b99819f4)
 
 ## Project Organization
