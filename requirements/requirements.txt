@@ -21,7 +21,11 @@ py-cpuinfo==9.0.0
 pytorch-lightning==2.3.3
 pytorch-forecasting==1.0.0
 torch==2.3.1
-triton==2.3.1
 xarray==2024.7.0
 yarl==1.9.4
 zstandard==0.23.0
+tensorboard==2.17.0
+tensorboard-data-server==0.7.2
+scikit-learn==1.5.1
+scipy==1.13.1
+seaborn==0.13.2
